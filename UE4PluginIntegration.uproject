@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0D2BE9FF-4A41-BDE2-FF13-3C9CC2BCB269}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4PluginIntegration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
