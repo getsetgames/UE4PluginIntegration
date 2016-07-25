@@ -14,6 +14,22 @@
 		{
 			"Name": "FacebookParse",
 			"Enabled": true
+		},
+		{
+			"Name": "AdobeMobile",
+			"Enabled": true
+		},
+		{
+			"Name": "ComScore",
+			"Enabled": true
+		},
+		{
+			"Name": "Upsight",
+			"Enabled": true
+		},
+		{
+			"Name": "SdkboxFyber",
+			"Enabled": true
 		}
 	]
 }
