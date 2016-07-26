@@ -26,10 +26,6 @@
 		{
 			"Name": "Upsight",
 			"Enabled": true
-		},
-		{
-			"Name": "SdkboxFyber",
-			"Enabled": true
 		}
 	]
 }
