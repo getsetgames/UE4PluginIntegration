@@ -12,19 +12,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "FacebookParse",
-			"Enabled": true
-		},
-		{
-			"Name": "AdobeMobile",
-			"Enabled": true
-		},
-		{
-			"Name": "ComScore",
-			"Enabled": true
-		},
-		{
-			"Name": "Upsight",
+			"Name": "Playhaven",
 			"Enabled": true
 		}
 	]
