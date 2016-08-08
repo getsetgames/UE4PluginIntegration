@@ -12,7 +12,15 @@
 	],
 	"Plugins": [
 		{
-			"Name": "SdkboxFyber",
+			"Name": "AdobeMobile",
+			"Enabled": true
+		},
+		{
+			"Name": "ComScore",
+			"Enabled": true
+		},
+		{
+			"Name": "Mixpanel",
 			"Enabled": true
 		}
 	]
