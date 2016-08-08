@@ -12,15 +12,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "FacebookParse",
-			"Enabled": true
-		},
-		{
-			"Name": "AdobeMobile",
-			"Enabled": true
-		},
-		{
-			"Name": "Upsight",
+			"Name": "SdkboxFyber",
 			"Enabled": true
 		}
 	]
